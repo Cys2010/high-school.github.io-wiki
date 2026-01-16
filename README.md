@@ -1,1 +1,1 @@
-# 25-high-school.github.io-wiki
+# high-school.github.io-wiki
